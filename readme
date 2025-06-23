@@ -1,0 +1,22 @@
+🌍 Static Tourism Website
+A simple static website built using HTML, CSS, and Bootstrap 4 to showcase popular tourist destinations in India. This project is focused on UI design using only front-end technologies—no JavaScript used.
+
+✨ Features
+📌 Multiple tourist spots like Taj Mahal, Golden Temple, Mysore Palace, and Varanasi Temple
+
+🖼️ Image carousels using Bootstrap components
+
+🎨 Clean and organized layout with custom styling and Google Fonts
+
+🗂️ Section-based navigation using Bootstrap classes
+
+🔗 Lightweight and easy to deploy as a static site
+
+📁 Tech Stack
+HTML5
+
+CSS3
+
+Bootstrap 4
+
+Google Fonts
